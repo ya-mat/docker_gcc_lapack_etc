@@ -22,6 +22,6 @@ RUN mkdir cmake_build && \
     cd ../ && \
     rm -rf lapack_etc_make
 
-WORKDIR /workdir 
+WORKDIR /workdir
 #CMD ["bash"]
 
