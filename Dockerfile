@@ -10,7 +10,7 @@ RUN mkdir cmake_build && \
     tar zxvf cmake-3.18.3.tar.gz && \
     cd cmake-3.18.3 && \
     ./bootstrap && make && make install && \
-    cd ../ && \
+    cd ../../ && \
     rm -rf cmake_build && \
     git clone https://github.com/ya-mat/lapack_etc_make.git && \
     cd lapack_etc_make && \
