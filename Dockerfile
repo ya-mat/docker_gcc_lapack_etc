@@ -19,6 +19,7 @@ RUN mkdir cmake_build && \
     sh make.sh && \
     cp *.a /usr/local/lib/ && \
     cp -r Eigen/ /usr/local/include/ && \
+    cp -r unsupported/ /usr/local/include/ && \
     cd ../ && \
     rm -rf lapack_etc_make
 
