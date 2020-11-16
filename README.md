@@ -1,6 +1,6 @@
 # docker_gcc_lapack_etc
 
-This image add several libraries to [gcc](https://hub.docker.com/_/gcc) for gfortran and g++. Libraries are installed to '/usr/local/lib'.
+This image add several libraries to latest image of [gcc](https://hub.docker.com/_/gcc) for gfortran and g++. Libraries are installed to '/usr/local/lib'.
 
 ## Install
 
