@@ -1,4 +1,4 @@
-# Copyright (c) 2020 ya-mat (https://github.com/ya-mat/docker_gcc_lapack_etc)
+# Copyright (c) 2020--2021 ya-mat (https://github.com/ya-mat/docker_gcc_lapack_etc)
 # Released under the MIT license
 # https://opensource.org/licenses/MIT
 
