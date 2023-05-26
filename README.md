@@ -17,3 +17,6 @@ $ ./a.out
 ```
 
 Path of installed libraries is '/usr/local/lib' or '/usr/local/include'.
+
+# github
+[https://github.com/ya-mat/docker_gcc_lapack_etc](https://github.com/ya-mat/docker_gcc_lapack_etc)
